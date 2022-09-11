@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ)
-&nbsp;
+&nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/PatelFahad97)
 &nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/)
