@@ -3,20 +3,23 @@
 ## I'm a Software Developer, and Graduate Student @ University of Windsor!!
 
 - 🔭 Check out my Linkedln Profile for recent updates about professional life
-- 🌱 I’m currently learning  " Be creative in your strategy: Choose between Risk and Reward "
+- 🌱 I’m currently learning iOS Application Development
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
 - 🥅 2022 Goal: Know Yourself (Strength and Weakness) 
-- ⚡ Fun fact: I love to explore myself
+- ⚡ Fun fact: "Be creative in your strategy: Choose between Risk and Reward"
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ)
 &nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/PatelFahad97)
 [![website](./img/twitter-dark.svg)](https://twitter.com/PatelFahad97)
-&nbsp;
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/)
-&nbsp;
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/i_apple_geek/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/i_apple_geek/)
 
 ### Languages and Tools:
