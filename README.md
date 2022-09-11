@@ -13,14 +13,14 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/PatelFahad97)
-[![website](./img/twitter-dark.svg)](https://twitter.com/PatelFahad97)
+[![website](./img/twitter-light.svg)](https://twitter.com/PatelFahad97#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/PatelFahad97#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/i_apple_geek/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/i_apple_geek/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/i_apple_geek/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/i_apple_geek/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
