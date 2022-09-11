@@ -12,8 +12,7 @@
 
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/PatelFahad97)
 [![website](./img/twitter-dark.svg)](https://twitter.com/PatelFahad97)
 &nbsp;&nbsp;
