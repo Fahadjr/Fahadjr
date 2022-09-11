@@ -13,7 +13,6 @@
 
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ)
 &nbsp;
-
 [![website](./img/twitter-dark.svg)](https://twitter.com/PatelFahad97)
 &nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahad-patel-0786a6141/)
