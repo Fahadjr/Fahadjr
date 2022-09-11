@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer, and Graduate Student @ University of Windsor!!
 
-- 🔭 Check out my Linkedln Profile : [Fahad Patel][linkedin]!
+- 🔭 Check out my Linkedln Profile for recent updates about professional life
 - 🌱 I’m currently learning  " Be creative in your strategy: Choose between Risk and Reward "
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
 - 🥅 2022 Goal: Know Yourself (Strength and Weakness) 
@@ -35,7 +35,5 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 <br />
 <br />
