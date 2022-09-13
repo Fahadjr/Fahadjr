@@ -5,7 +5,7 @@
 - 🔭 Check out my Linkedln Profile for recent updates about professional life
 - 🌱 I’m currently learning iOS Application Development
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
-- 🥅 2022 Goal: Know Yourself (Strength and Weakness) 
+- 🥅 2022 Goal: Know Myself (Strength and Weakness) 
 - ⚡ Fun fact: "Be creative in your strategy: Choose between Risk and Reward"
 
 ### Connect with me:
