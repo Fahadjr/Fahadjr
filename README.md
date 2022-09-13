@@ -2,11 +2,11 @@
 
 ## I'm a Software Developer, and Graduate Student @ University of Windsor!!
 
-- 🔭 Check out my Linkedln Profile for recent updates about professional life
 - 🌱 I’m currently learning iOS Application Development
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
 - 🥅 2022 Goal: Know Myself (Strength and Weakness) 
 - ⚡ Fun fact: "Be creative in your strategy: Choose between Risk and Reward"
+- 🔭 Check out my latest Project in Augmented Reality Shooting Game - https://youtu.be/oQZszr6K9iw
 
 ### Connect with me:
 
