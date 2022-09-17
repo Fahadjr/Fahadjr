@@ -42,5 +42,4 @@
 <br />
 ## My Contribution :(
 
-<br/>
 ![snake gif](https://github.com/Fahadjr/Fahadjr/blob/output/github-contribution-grid-snake.gif)
