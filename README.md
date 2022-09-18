@@ -29,12 +29,9 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,atom,aws,azure,bash,bootstrap,c,cpp,cs,css,discord,django,docker,dotnet&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=angular,atom,aws,azure,bash,bootstrap,c,cpp,cs,css,discord,django,docker,dotnet,eclipse,fastapi,figma,flask,flutter,gcp,github,html,instagram,java,java,js,jenkins,jquery,laravel,latex,linkedin,linux,mysql,mongodb,nodejs,php,postgres,py,r,react,sass,stackoverflow,swift,tailwind,tensorflow,twitter,unity,unreal,visualstudio,vscode&theme=dark&perline=14" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=angular,atom,aws,azure,bash,bootstrap,c,cpp,cs,css,discord,django,docker,dotnet&theme=dark&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=eclipse,fastapi,figma,flask,flutter,gcp,github,html,instagram,java,java,js,jenkins,jquery&theme=dark&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=laravel,latex,linkedin,linux,mysql,mongodb,nodejs,php,postgres,py,r,react,sass,stackoverflow,swift,tailwind,tensorflow,twitter,unity,unreal,visualstudio,vscode&theme=dark&perline=14)](https://skillicons.dev)
 
 # My Contribution 💖💖💖
 
