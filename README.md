@@ -6,7 +6,7 @@
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
 - 🥅 2022 Goal: Know Myself (Strength and Weakness) 
 - ⚡ Fun fact: "Be creative in your strategy: Choose between Risk and Reward"
-- 🔭 Check out my latest work in Augmented Reality Shooting Game - https://youtu.be/oQZszr6K9iw
+- 🔭 Check out my latest work in Augmented Reality Shooting Game - https://youtu.be/oQZszr6K9iw <img src="./icons/Unity-Dark.svg" width="48"> 
 
 ### Connect with me:
 
@@ -40,6 +40,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
 <br />
-## My Contribution :(
+### My Contribution :) 
 
 ![snake gif](https://github.com/Fahadjr/Fahadjr/blob/output/github-contribution-grid-snake.gif)
