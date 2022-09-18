@@ -6,7 +6,8 @@
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
 - 🥅 2022 Goal: Know Myself (Strength and Weakness) 
 - ⚡ Fun fact: "Be creative  in your strategy: Choose between Risk and Reward"
-- 🔭 Check out my latest work in Augmented Reality Shooting Game [![My Skills](https://skillicons.dev/icons?i=unity)](https://youtu.be/oQZszr6K9iw )<img align="left" alt="Unity" width="26px" style="padding-right:10px;" />
+- 🔭 Check out my latest work in Augmented Reality Shooting Game [![My Skills](https://skillicons.dev/icons?i=unity)](https://youtu.be/oQZszr6K9iw )
+
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-light-mode-only)
