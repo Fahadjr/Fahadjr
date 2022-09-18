@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning iOS Application Development
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
 - 🥅 2022 Goal: Know Myself (Strength and Weakness) 
-- ⚡ Fun fact: "Be creative in your strategy: Choose between Risk and Reward"
-- 🔭 Check out my latest work in Augmented Reality Shooting Game in [![My Skills](https://skillicons.dev/icons?i=unity)](https://youtu.be/oQZszr6K9iw ) 
+- ⚡ Fun fact: "Be creative  in your strategy: Choose between Risk and Reward"
+- 🔭 Check out my latest work in Augmented Reality Shooting Game [![My Skills](https://skillicons.dev/icons?i=unity)](https://youtu.be/oQZszr6K9iw ) (Click on icon)
 
 ### Connect with me:
 
@@ -43,6 +43,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,atom,aws,azure,bash,bootstrap,c,cpp,cs,css,discord,django,docker,dotnet)](https://skillicons.dev)
 
-# My Contribution
+# My Contribution 💖💖💖
 
 ![snake gif](https://github.com/Fahadjr/Fahadjr/blob/output/github-contribution-grid-snake.gif)
