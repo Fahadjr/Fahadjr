@@ -6,7 +6,9 @@
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
 - 🥅 2022 Goal: Know Myself (Strength and Weakness) 
 - ⚡ Fun fact: "Be creative  in your strategy: Choose between Risk and Reward"
-- 🔭 Check out my latest work in Augmented Reality Shooting Game [![website](./img/youtube-light.svg)](https://www.youtu.be/oQZszr6K9iw#gh-dark-mode-only)
+- 🔭 Check out my latest work in Augmented Reality Shooting Game on [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-light-mode-only) 
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-dark-mode-only)
+&nbsp;&nbsp;
 - [![My Skills](https://skillicons.dev/icons?i=youtube)](https://youtu.be/oQZszr6K9iw )
 
 ### Connect with me:
@@ -42,9 +44,9 @@
 <br />
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=angular,atom,aws,azure,bash,bootstrap,c,cpp,cs,css,discord,django,docker,dotnet&theme=dark&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=eclipse,fastapi,figma,flask,flutter,gcp,github,html,instagram,java,java,js,jenkins,jquery&theme=dark&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=laravel,latex,linkedin,linux,mysql,mongodb,nodejs,php,postgres,py,r,react,sass,stackoverflow,swift,tailwind,tensorflow,twitter,unity,unreal,visualstudio,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,atom,aws,azure,bash,bootstrap,c,cpp,cs,css,discord,django,docker,dotnet&theme=dark&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,fastapi,figma,flask,flutter,gcp,github,html,instagram,java,java,js,jenkins,jquery&theme=dark&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,latex,linkedin,linux,mysql,mongodb,nodejs,php,postgres,py,r,react,sass,stackoverflow,swift,tailwind,tensorflow,twitter,unity,unreal,visualstudio,vscode&theme=dark&perline=14)](https://skillicons.dev)
 
 # My Contribution 💖💖💖
 
