@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,js)](https://skillicons.dev)
 
 # My Contribution
 
