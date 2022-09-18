@@ -40,7 +40,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
 <br />
+
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+
 # My Contribution
 
 ![snake gif](https://github.com/Fahadjr/Fahadjr/blob/output/github-contribution-grid-snake.gif)
