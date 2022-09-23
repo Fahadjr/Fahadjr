@@ -1,6 +1,6 @@
 # Hi there, I'm Fahad Patel👋 
 
-## I'm a Software Developer, and Graduate Student @ University of Windsor!!
+## I'm a Software Engineer, and Graduate Student @ University of Windsor!!
 
 - 🌱 I’m currently learning iOS Application Development
 - 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
