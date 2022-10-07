@@ -9,6 +9,7 @@
 - 🔭 Check out my latest work in Augmented Reality Shooting Game on  [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-light-mode-only) 
  [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-dark-mode-only)
 &nbsp;&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fahadjr&label=Profile%20views&color=0e75b6&style=flat" alt="patelfahadjr" /> </p>
 
 ### Connect with me:
 
