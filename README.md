@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer, and Graduate Student @ University of Windsor!!
 
-- 🌱 I’m currently learning iOS Application Development
-- 👯 Actively seeking opportunities for Co-op/Intership Jan-2023
+- 🌱 Business Systems Analyst Intern at TD Bank (Jan 2023 - April 2023)
+- 👯 Actively seeking opportunities for full time May-2023
 - 🥅 2022 Goal: Know Myself (Strength and Weakness) 
 - ⚡ Fun fact: "Be creative  in your strategy: Choose between Risk and Reward"
 - 🔭 Check out my latest work in Augmented Reality Shooting Game on  [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-light-mode-only) 
