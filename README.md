@@ -1,6 +1,6 @@
 # Hi there, I'm Fahad Patel👋 
 
-## I'm a Software Engineer, and Graduate Student @ University of Windsor!!
+## I'm a Business Systems Analyst, and Graduate Student @ University of Windsor!!
 
 - 🌱 Business Systems Analyst Intern at TD Bank (Jan 2023 - April 2023)
 - 👯 Actively seeking opportunities for full time May-2023
