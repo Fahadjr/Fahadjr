@@ -1,7 +1,7 @@
 # Hi there, I'm Fahad Patel👋 
 
-## I'm a Business Systems Analyst, and Graduate Student @ University of Windsor!!
- - 🌱 Business Systems Analyst at TD Bank (June 2023 - ∞)
+## I'm a Business Systems Analyst @ TD Bank , and Proud Uwind Alumni Class of 2023!!
+ - 🌱 Business Systems Analyst at TD Bank (June 2023 - Present)
  - 🌱 Business Systems Analyst Intern at TD Bank (Jan 2023 - April 2023)
  - 👯 Actively seeking opportunities to learn on Weekends.
  - 🥅 2023 Goal: Work with SWOT Analysis (Strength,Weakness, Opportunities and Threats) 
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-# My Contribution 💖💖💖
+# Github Profile Views:
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fahadjr&label=Profile%20views&color=0e75b6&style=flat" alt="patelfahadjr" /> </p>
