@@ -3,7 +3,7 @@
 ## I'm a Business Systems Analyst, and Graduate Student @ University of Windsor!!
 - 🌱 Business Systems Analyst at TD Bank (June 2023 - ∞)
 - 🌱 Business Systems Analyst Intern at TD Bank (Jan 2023 - April 2023)
-- 👯 Actively seeking opportunities for full time May-2023
+- 👯 Actively seeking opportunities to learn on Weekends.
 - 🥅 2023 Goal: Work with SWOT Analysis (Strength,Weakness, Opportunities and Threats) 
 - ⚡ Fun fact: "Be creative  in your strategy: Choose between Risk and Reward"
 - 🔭 Check out my latest work in Augmented Reality Shooting Game on  [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCompHssrPlRi-vd82aBc6xQ#gh-light-mode-only) 
