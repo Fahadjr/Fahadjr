@@ -1,7 +1,7 @@
 # Hi there, I'm Fahad Patel👋 
 
 ## I'm a Business Systems Analyst, and Graduate Student @ University of Windsor!!
- -- 🌱 Business Systems Analyst at TD Bank (June 2023 - ∞)
+ - 🌱 Business Systems Analyst at TD Bank (June 2023 - ∞)
  -- 🌱 Business Systems Analyst Intern at TD Bank (Jan 2023 - April 2023)
  -- 👯 Actively seeking opportunities to learn on Weekends.
  -- 🥅 2023 Goal: Work with SWOT Analysis (Strength,Weakness, Opportunities and Threats) 
