@@ -1,4 +1,4 @@
-# Hi there, I'm Fahad Patel👋 
+# Hi there 👋 :) I'm Fahad Patel
 
 ## I'm a Business Systems Analyst @ TD Bank , and Proud Uwind Alumni Class of 2023!!
  - 🌱 Business Systems Analyst at TD Bank (June 2023 - Present)
