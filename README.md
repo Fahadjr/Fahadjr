@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Fahad Patel
 
-### 🚀 Senior IT Operations Analyst & Business Systems Analyst @ TD Bank
+### 🚀 Senior IT Operations Analyst @ TD Bank
 Proud **University of Windsor Alumni (Class of 2023)**! Passionate about IT operations, enterprise risk management, business continuity, and building secure, AI-automated systems.
 
 ---
 
 ### 💼 Professional Background
-- 🔭 **IT Operations Analyst / Business Systems Analyst** @ TD Bank *(June 2023 – Present)*
+- 🔭 **IT Operations Analyst** @ TD Bank *(July 2023 - Present)*
+- 🔭 **Business Systems Analyst** @ TD Bank *(May 2023 – June 2023)*
 - 🌱 **Business Systems Analyst Intern** @ TD Bank *(Jan 2023 – April 2023)*
 - 👯 **Actively exploring:** AI Agents, Enterprise Automation, Cloud Security, and Risk Compliance workflows.
 - ⚡ **Fun fact:** *"Be creative in your strategy: Choose between Risk and Reward."*
